@@ -1,0 +1,134 @@
+
+
+#bkgrd{
+    margin-top: 0px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/a3/Mapo_Hall%2C_Ibadan.jpg");
+    background-size: cover;
+    font-family: 'Spinnaker', sans-serif;
+}
+.hero{
+    text-shadow: 0px 0px 2px black;
+    /* margin: ; */
+    border:none;
+    height: 350px;
+    align-items: center;
+    justify-content:center;
+    display: flex;
+    flex-direction: column;
+    /* opacity:.5; */
+}
+
+#ibadan{
+font-family: 'Spinnaker', sans-serif;
+    display: block;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    padding: 7px 12px;
+    background: #1A5060e6;
+    border-radius: 10px;
+    color: #eef1f6;
+    width: 125px;
+    margin: 0px auto 10px auto;
+    
+
+    
+}
+
+#under-Ibadan{
+    display: block;
+font-family: 'Spinnaker', sans-serif;    font-style: normal;
+    font-weight: 500;
+    font-size: 18.72px;
+    line-height: 22px;
+    text-align: center;
+    padding: 6px 15px;
+    color: #eef1f6;
+    background: #1A5060e6;
+    border-radius: 10px;
+    width: 600px;
+    margin: 10px auto;
+
+}
+#Top-three{
+    background: #7FB6C7;
+    padding: 8px 16px;
+    display: block; width: 400px; margin: 20px auto; border-radius: 0px 10px;
+}
+.activities{
+
+    /* background: #4C9EB4; */
+    padding: 05px 10px 30px  10px;
+}
+.activities-div{
+    margin: 2px 0;
+    display: flex;
+    justify-content: space-around;
+    /* height: 250px; */
+
+}
+
+.act-images{ 
+    border-radius: 50px;
+    height: 120px;
+    width: 120px;
+    object-fit: cover;
+    
+}
+.h2-act{
+font-family: 'Spinnaker', sans-serif;    font-style: bold;
+    font-weight: 700;
+    font-size: 16px;
+    width: 190px;
+    height: 30px;
+}
+.p-act{
+font-family: 'Spinnaker', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    }
+
+.act{
+    width: 205px;
+    margin: 0px 10px;
+    background: #7FB6C7;
+    padding: 15px 10px;
+    border-radius: 40px;
+    
+}
+body {
+    background: #eef1f6;
+    border-top:none;
+    margin: 0px auto;
+    text-align: center;
+font-family: 'Spinnaker', sans-serif;
+    width: 720px;
+}
+
+.guide{
+    display: flex;
+    align-items: center;
+    width: 400px;
+    /* height: 295px; */
+    margin: 30px auto;
+    background: #7FB6C7;
+    border-bottom: 5px solid #1A5060;
+    border-radius: 90px 10px 10px 90px;
+    padding: 20px;
+    color: #1B1B1E;
+}
+#guide-img{
+    /* height: 250px; */
+    width: 180px;
+    border-radius: 40%;
+    
+}
+
+footer{
+    color: #1B1B1E;
+    margin: 50px auto 20px;
+
+}
